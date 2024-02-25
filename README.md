@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Justin! Find me at @JUSTINFINMATH
 - 👀 I'm interested in many things, and I'm currently completing a postgraduate course in financial mathematics.
-- hackerrank @justynxku.
 - Projects in the works will be uploaded soon.
 
 <!---
